@@ -4,14 +4,12 @@ services:
     env: python
     plan: free
     buildCommand: pip install -r requirements.txt
-    startCommand: gunicorn grape_shop.wsgi:application
-    envVars:
-      - key: DJANGO_SECRET_KEY
-        generateValue: true
-      - key: RENDER
-        value: true
-      - key: PYTHONUNBUFFERED
-        value: '1'
+    # — run migrations & fixtures automatically after build, before start
+    releaseCommand: |
+      python manage.py migrate
+      python manage.py loaddata store/fixtures/admin_user.json
+      python manage.py loaddata store/fixtures/products.json
+    startCommand: gunicorn grape_shop.wsgi:application --bind 0.0.0.0:$PORT
 
 databases:
   - name: electronics-shop-db
