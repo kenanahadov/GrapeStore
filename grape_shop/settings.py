@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 
 # ─── BASE DIR ────────────────────────────────────────────────────────────────
-BASE_DIR = Path(_file_).resolve().parent.parent
+BASE_DIR = Path(__file__).resolve().parent.parent
 
 # ─── SECURITY ────────────────────────────────────────────────────────────────
 SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY', 'your-local-dev-secret')
