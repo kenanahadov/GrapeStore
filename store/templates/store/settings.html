@@ -1,0 +1,24 @@
+{% extends 'store/base.html' %}
+{% block content %}
+<h1 class="mb-4">Account Settings</h1>
+<div class="row">
+<div class="col-md-6">
+<h4>Addresses</h4>
+{% for a in addresses %}<div class="border p-2 mb-2">{{a}}</div>{% empty %}<p>No addresses.</p>{% endfor %}
+<hr>
+<form method="post">{% csrf_token %}
+{{ addr_form.as_p }}
+<button name="add_addr" class="btn text-white" style="background-color:#7E3D97;">Add Address</button>
+</form>
+</div>
+<div class="col-md-6">
+<h4>Payment Methods</h4>
+{% for p in payments %}<div class="border p-2 mb-2">{{p}}</div>{% empty %}<p>No cards.</p>{% endfor %}
+<hr>
+<form method="post">{% csrf_token %}
+{{ pay_form.as_p }}
+<button name="add_pay" class="btn text-white" style="background-color:#7E3D97;">Add Card</button>
+</form>
+</div>
+</div>
+{% endblock %}

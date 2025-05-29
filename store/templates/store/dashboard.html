@@ -1,0 +1,8 @@
+{% extends 'store/base.html' %}{% block content %}
+<h1>Admin Dashboard</h1>
+<div class="row text-center">
+<div class="col-md-4"><div class="stat-box"><h3>{{users}}</h3><p>Users</p></div></div>
+<div class="col-md-4"><div class="stat-box"><h3>{{orders}}</h3><p>Orders</p></div></div>
+<div class="col-md-4"><div class="stat-box"><h3>${{revenue}}</h3><p>Revenue</p></div></div>
+</div>
+{% endblock %}

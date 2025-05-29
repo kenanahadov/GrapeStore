@@ -1,0 +1,410 @@
+[
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "username": "admin",
+      "password": "pbkdf2_sha256$260000$s4lT9AbC6K8Q$YCfwYowhc2SGDQHko6WUXLfW9dPfkfHWTXq/3Ft6/eo=",
+      "is_superuser": true,
+      "is_staff": true,
+      "is_active": true,
+      "email": "admin@example.com"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 1,
+    "fields": {
+      "name": "Canon EOS R6 Mark II",
+      "description": "24.2\u2011MP full\u2011frame sensor, 40 fps, 4K60 oversampled.",
+      "price": "2499.00"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 1,
+    "fields": {
+      "product": 1,
+      "url": "https://images.unsplash.com/photo-1519183071298-a2962eadc68d?fit=crop&w=600&q=60"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 2,
+    "fields": {
+      "product": 1,
+      "url": "https://images.unsplash.com/photo-1519183071298-e2962eadc61d?fit=crop&w=600&q=60"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 3,
+    "fields": {
+      "product": 1,
+      "url": "https://images.unsplash.com/photo-1519183071298-a2962eadc67c?fit=crop&w=600&q=60"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 2,
+    "fields": {
+      "name": "Apple MacBook Pro 14\u2033 M3 Pro",
+      "description": "14.2\u2033 XDR display, M3 Pro, 18 GB RAM, 1 TB SSD.",
+      "price": "2599.00"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 4,
+    "fields": {
+      "product": 2,
+      "url": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=600&q=60"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 5,
+    "fields": {
+      "product": 2,
+      "url": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=600&q=60"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 6,
+    "fields": {
+      "product": 2,
+      "url": "https://images.unsplash.com/photo-1612832021056-d8b1f9d9ed3d?auto=format&fit=crop&w=600&q=60"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 3,
+    "fields": {
+      "name": "Sony WH-1000XM5",
+      "description": "Flagship ANC headphones, 30\u2011h battery, LDAC.",
+      "price": "348.00"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 7,
+    "fields": {
+      "product": 3,
+      "url": "https://images.unsplash.com/photo-1653574119139-f4c381ac4dd0?auto=format&fit=crop&w=600&q=60"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 8,
+    "fields": {
+      "product": 3,
+      "url": "https://images.unsplash.com/photo-1580894908360-03129b83bd71?fit=crop&w=600&q=60"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 9,
+    "fields": {
+      "product": 3,
+      "url": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?fit=crop&w=600&q=60"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 4,
+    "fields": {
+      "name": "Samsung 990 Pro 2 TB",
+      "description": "PCIe 4.0 NVMe up to 7450 MB/s, heatsink.",
+      "price": "239.99"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 10,
+    "fields": {
+      "product": 4,
+      "url": "https://images.unsplash.com/photo-1527434000443-fd1e6025901f?fit=crop&w=600&q=60"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 11,
+    "fields": {
+      "product": 4,
+      "url": "https://images.unsplash.com/photo-1527433962852-5f80566bf415?fit=crop&w=600&q=60"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 12,
+    "fields": {
+      "product": 4,
+      "url": "https://images.unsplash.com/photo-1607860092105-bb3d8543da7e?fit=crop&w=600&q=60"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 5,
+    "fields": {
+      "name": "LG C3 55\u2033 OLED TV",
+      "description": "\u03b19 Gen6, 120\u202fHz HDMI\u202f2.1, Dolby Vision.",
+      "price": "1399.00"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 13,
+    "fields": {
+      "product": 5,
+      "url": "https://images.unsplash.com/photo-1606813909384-aacb4a46e660?fit=crop&w=600&q=60"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 14,
+    "fields": {
+      "product": 5,
+      "url": "https://images.unsplash.com/photo-1586105251261-72a756497a12?fit=crop&w=600&q=60"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 15,
+    "fields": {
+      "product": 5,
+      "url": "https://images.unsplash.com/photo-1586105261254-dd496e78450e?fit=crop&w=600&q=60"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 6,
+    "fields": {
+      "name": "Logitech MX Master 3S",
+      "description": "MagSpeed wheel, 8000\u2011dpi sensor, silent.",
+      "price": "99.99"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 16,
+    "fields": {
+      "product": 6,
+      "url": "https://images.unsplash.com/photo-1587815071073-2983d27b2385?fit=crop&w=600&q=60"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 17,
+    "fields": {
+      "product": 6,
+      "url": "https://images.unsplash.com/photo-1597441091609-05e6e87306a1?fit=crop&w=600&q=60"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 18,
+    "fields": {
+      "product": 6,
+      "url": "https://images.unsplash.com/photo-1587814707290-8fe44745f0a2?fit=crop&w=600&q=60"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 7,
+    "fields": {
+      "name": "Google Pixel 8 Pro",
+      "description": "Tensor G3, 6.7\u2033 120\u202fHz OLED, 7\u202fyr updates.",
+      "price": "999.00"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 19,
+    "fields": {
+      "product": 7,
+      "url": "https://images.unsplash.com/photo-1695046449936-f899d0213518?fit=crop&w=600&q=60"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 20,
+    "fields": {
+      "product": 7,
+      "url": "https://images.unsplash.com/photo-1697822227242-6645f9e3cd5a?fit=crop&w=600&q=60"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 21,
+    "fields": {
+      "product": 7,
+      "url": "https://images.unsplash.com/photo-1704218057444-436c3dc32c43?fit=crop&w=600&q=60"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 8,
+    "fields": {
+      "name": "ASUS ROG Swift PG34 OLED",
+      "description": "34\u2033 175\u202fHz QD\u2011OLED, G\u2011SYNC.",
+      "price": "1299.00"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 22,
+    "fields": {
+      "product": 8,
+      "url": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?fit=crop&w=600&q=60"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 23,
+    "fields": {
+      "product": 8,
+      "url": "https://images.unsplash.com/photo-1611042557076-ee2c84b8deab?fit=crop&w=600&q=60"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 24,
+    "fields": {
+      "product": 8,
+      "url": "https://images.unsplash.com/photo-1614008687590-5e4b72cfcd38?fit=crop&w=600&q=60"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 9,
+    "fields": {
+      "name": "Raspberry Pi 5 Kit",
+      "description": "A76 2.4\u202fGHz, 8\u202fGB, case & fan.",
+      "price": "129.00"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 25,
+    "fields": {
+      "product": 9,
+      "url": "https://images.unsplash.com/photo-1556227834-efd21607f9e6?fit=crop&w=600&q=60"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 26,
+    "fields": {
+      "product": 9,
+      "url": "https://images.unsplash.com/photo-1555435026-a8d8113a1b04?fit=crop&w=600&q=60"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 27,
+    "fields": {
+      "product": 9,
+      "url": "https://images.unsplash.com/photo-1603297630902-3cbe1e3247df?fit=crop&w=600&q=60"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 10,
+    "fields": {
+      "name": "RTX 4070 SUPER",
+      "description": "DLSS\u202f3 12\u202fGB 220\u202fW.",
+      "price": "599.00"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 28,
+    "fields": {
+      "product": 10,
+      "url": "https://images.unsplash.com/photo-1618401477084-09c7e4b27c8a?fit=crop&w=600&q=60"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 29,
+    "fields": {
+      "product": 10,
+      "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?fit=crop&w=600&q=60"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 30,
+    "fields": {
+      "product": 10,
+      "url": "https://images.unsplash.com/photo-1541807083-9db32643ff94?fit=crop&w=600&q=60"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 11,
+    "fields": {
+      "name": "Galaxy S24 Ultra",
+      "description": "200\u202fMP cam, S\u2011Pen, 120\u202fHz.",
+      "price": "1299.99"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 31,
+    "fields": {
+      "product": 11,
+      "url": "https://images.unsplash.com/photo-1706080809452-7bd356e47e4d?fit=crop&w=600&q=60"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 32,
+    "fields": {
+      "product": 11,
+      "url": "https://images.unsplash.com/photo-1706107969386-50ccaa32d562?fit=crop&w=600&q=60"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 33,
+    "fields": {
+      "product": 11,
+      "url": "https://images.unsplash.com/photo-1706080811754-6656719da869?fit=crop&w=600&q=60"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 12,
+    "fields": {
+      "name": "Sony A7 IV",
+      "description": "33\u202fMP, 10\u202ffps, 4K60 10\u2011bit.",
+      "price": "2499.00"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 34,
+    "fields": {
+      "product": 12,
+      "url": "https://images.unsplash.com/photo-1583443630443-76fd3e3aa8b0?fit=crop&w=600&q=60"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 35,
+    "fields": {
+      "product": 12,
+      "url": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?fit=crop&w=600&q=60"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 36,
+    "fields": {
+      "product": 12,
+      "url": "https://images.unsplash.com/photo-1588200188349-52f6df1a2601?fit=crop&w=600&q=60"
+    }
+  }
+]

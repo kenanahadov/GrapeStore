@@ -1,0 +1,27 @@
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    filter: invert(100%); /* ensures black arrows regardless of bg */
+}
+
+.carousel-item img {
+    max-height: 500px;
+    width: 100%;
+    object-fit: contain;
+}
+
+.card-img-top {
+    height: 220px;
+    object-fit: contain;
+}
+
+.navbar-nav {
+  display: flex !important;
+  align-items: center;
+}
+
+.navbar-nav .nav-link {
+  display: flex;
+  align-items: center;
+}
+

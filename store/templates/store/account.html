@@ -1,0 +1,29 @@
+{% extends 'store/base.html' %}
+{% block content %}
+<h1 class="mb-4">Account</h1>
+<a href="{% url 'settings' %}" class="btn btn-outline-secondary mb-3">Account Settings</a>
+{% if orders %}
+<div class="accordion" id="orders">
+{% for o in orders %}
+<div class="accordion-item">
+<h2 class="accordion-header" id="h{{o.id}}">
+<button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#c{{o.id}}">Order #{{o.id}} – ${{o.total}}</button>
+</h2>
+<div id="c{{o.id}}" class="accordion-collapse collapse" data-bs-parent="#orders">
+<div class="accordion-body">
+<ul class="list-group">
+{% for it in o.items.all %}
+<li class="list-group-item d-flex justify-content-between">
+{{it.product.name}} × {{it.qty}} <span>${{it.sub_total}}</span>
+</li>
+{% endfor %}
+</ul>
+</div>
+</div>
+</div>
+{% endfor %}
+</div>
+{% else %}
+<p>No orders yet.</p>
+{% endif %}
+{% endblock %}

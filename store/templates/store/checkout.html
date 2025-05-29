@@ -1,0 +1,39 @@
+{% extends 'store/base.html' %}
+{% block content %}
+<h1 class="mb-4">Checkout</h1>
+<form method="post">{% csrf_token %}
+<h4>Shipping Address</h4>
+{% if addresses.exists %}
+<select name="address" class="form-select mb-3">
+{% for a in addresses %}<option value="{{a.id}}">{{a}}</option>{% endfor %}
+<option value="new">Add new…</option>
+</select>
+{% endif %}
+{% if not addresses.exists or request.POST.address == 'new' %}
+{{ addr_form.as_p }}
+{% endif %}
+<h4 class="mt-4">Payment Method</h4>
+{% if payments.exists %}
+<select name="payment" class="form-select mb-3">
+{% for p in payments %}<option value="{{p.id}}">{{p}}</option>{% endfor %}
+<option value="new">Add new…</option>
+</select>
+{% endif %}
+{% if not payments.exists or request.POST.payment == 'new' %}
+{{ pay_form.as_p }}
+{% endif %}
+<h4 class="mt-4">Summary</h4>
+<ul class="list-group mb-3">
+{% for it in items %}
+<li class="list-group-item d-flex justify-content-between">
+{{it.product.name}} × {{it.qty}} <span>${{it.subtotal}}</span>
+</li>
+{% endfor %}
+<li class="list-group-item d-flex justify-content-between fw-bold">
+Total <span>${{total}}</span>
+</li>
+<li class="list-group-item text-end">Estimated delivery: {{est}}</li>
+</ul>
+<button class="btn text-white" style="background-color:#7E3D97;">Place Order</button>
+</form>
+{% endblock %}

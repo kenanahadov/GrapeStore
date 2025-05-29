@@ -1,0 +1,1274 @@
+[
+  {
+    "model": "store.product",
+    "pk": 1,
+    "fields": {
+      "name": "15-inch MacBook Air Laptop with Apple M3 Chip 15.3-inch Liquid Retina Display, 16GB of Integrated Memory, 256GB of SSD Storage, 1080p FaceTime HD Camera, Touch ID. Space Gray",
+      "description": "15-inch MacBook Air Laptop with Apple M3 Chip 15.3-inch Liquid Retina Display, 16GB of Integrated Memory, 256GB of SSD Storage, 1080p FaceTime HD Camera, Touch ID. Space Gray\n\n**Highlights**\n- 15-inch MacBook Air Laptop with Apple M3 Chip 15\n- 3-inch Liquid Retina Display\n- 16GB of Integrated Memory\n- 256GB of SSD Storage\n- 1080p FaceTime HD Camera\n- Touch ID\n- Space Gray\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "1999.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 2,
+    "fields": {
+      "name": "Acer Nitro EI322QURPbmiippx 80cm 31.5 inch ZeroFrame QHD Curved 1500R 165Hz FreeSync Premium Pro DisplayHDR 400 VA LED 2xHDMI 2xDP MM Audio out EURO Black Acer EcoDisplay Gaming Monitor",
+      "description": "Acer Nitro EI322QURPbmiippx 80cm 31.5 inch ZeroFrame QHD Curved 1500R 165Hz FreeSync Premium Pro DisplayHDR 400 VA LED 2xHDMI 2xDP MM Audio out EURO Black Acer EcoDisplay Gaming Monitor\n\n**Highlights**\n- Acer Nitro EI322QURPbmiippx 80cm 31\n- 5 inch ZeroFrame QHD Curved 1500R 165Hz FreeSync Premium Pro DisplayHDR 400 VA LED 2xHDMI 2xDP MM Audio out EURO Black Acer EcoDisplay Gaming Monitor\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "399.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 3,
+    "fields": {
+      "name": "Apple 2022 MacBook Air Laptop with M2 Chip 13.6-inch Liquid Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Compatible with iPhone and iPad;\u200b\u200b\u200b\u200b\u200b\u200b\u200b Midnight",
+      "description": "Apple 2022 MacBook Air Laptop with M2 Chip 13.6-inch Liquid Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Compatible with iPhone and iPad;\u200b\u200b\u200b\u200b\u200b\u200b\u200b Midnight\n\n**Highlights**\n- Apple 2022 MacBook Air Laptop with M2 Chip 13\n- 6-inch Liquid Retina Display\n- 8GB RAM\n- 256GB SSD Storage\n- Backlit Keyboard\n- 1080p FaceTime HD Camera\n- Compatible with iPhone and iPad;\u200b\u200b\u200b\u200b\u200b\u200b\u200b Midnight\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "1999.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 4,
+    "fields": {
+      "name": "Apple AirPods Max  Sky Blue case",
+      "description": "Apple AirPods Max  Sky Blue case\n\n**Highlights**\n- Apple AirPods Max  Sky Blue case\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "549.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 5,
+    "fields": {
+      "name": "Apple AirPods Max  Sky Blue",
+      "description": "Apple AirPods Max  Sky Blue\n\n**Highlights**\n- Apple AirPods Max  Sky Blue\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "549.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 6,
+    "fields": {
+      "name": "Apple airpods2 pro",
+      "description": "Apple airpods2 pro\n\n**Highlights**\n- Apple airpods2 pro\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "249.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 7,
+    "fields": {
+      "name": "Apple MacBook Pro Laptop with M4 Chip, 10-Core CPU, 10-Core GPU 14.2 Liquid Retina XDR Display, 16GB Combo Memory, 512GB SSD Storage; Space Black",
+      "description": "Apple MacBook Pro Laptop with M4 Chip, 10-Core CPU, 10-Core GPU 14.2 Liquid Retina XDR Display, 16GB Combo Memory, 512GB SSD Storage; Space Black\n\n**Highlights**\n- Apple MacBook Pro Laptop with M4 Chip\n- 10-Core CPU\n- 10-Core GPU 14\n- 2 Liquid Retina XDR Display\n- 16GB Combo Memory\n- 512GB SSD Storage; Space Black\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "1999.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 8,
+    "fields": {
+      "name": "Apple Magic Keyboard",
+      "description": "Apple Magic Keyboard\n\n**Highlights**\n- Apple Magic Keyboard\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "169.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 9,
+    "fields": {
+      "name": "Apple Magic Mouse Black",
+      "description": "Apple Magic Mouse Black\n\n**Highlights**\n- Apple Magic Mouse Black\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "79.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 10,
+    "fields": {
+      "name": "Apple Magic Mouse White",
+      "description": "Apple Magic Mouse White\n\n**Highlights**\n- Apple Magic Mouse White\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "79.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 11,
+    "fields": {
+      "name": "ASUS Proart PA279CV 27 4K IPS HDR 3840X2160 5MS Dp HDMI USB Type-C MM Vesa 3 Years 100% Rec. 709, 100% SRGB, 10 Bit, Pivot Monitor, Black",
+      "description": "ASUS Proart PA279CV 27 4K IPS HDR 3840X2160 5MS Dp HDMI USB Type-C MM Vesa 3 Years 100% Rec. 709, 100% SRGB, 10 Bit, Pivot Monitor, Black\n\n**Highlights**\n- ASUS Proart PA279CV 27 4K IPS HDR 3840X2160 5MS Dp HDMI USB Type-C MM Vesa 3 Years 100% Rec\n- 709\n- 100% SRGB\n- 10 Bit\n- Pivot Monitor\n- Black\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "399.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 12,
+    "fields": {
+      "name": "ASUS ROG Strix G16 G615LR-S5213 Laptop, Intel Core Ultra 7 Processor 255HX 2.4GHz, 32GB DDR5, 1TB M.2 SSD, NVIDIA GeForce RTX 5070 Ti 12GB GDDR7, 16 2.5K ROG Display, Dos",
+      "description": "ASUS ROG Strix G16 G615LR-S5213 Laptop, Intel Core Ultra 7 Processor 255HX 2.4GHz, 32GB DDR5, 1TB M.2 SSD, NVIDIA GeForce RTX 5070 Ti 12GB GDDR7, 16 2.5K ROG Display, Dos\n\n**Highlights**\n- ASUS ROG Strix G16 G615LR-S5213 Laptop\n- Intel Core Ultra 7 Processor 255HX 2\n- 4GHz\n- 32GB DDR5\n- 1TB M\n- 2 SSD\n- NVIDIA GeForce RTX 5070 Ti 12GB GDDR7\n- 16 2\n- 5K ROG Display\n- Dos\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "899.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 13,
+    "fields": {
+      "name": "ASUS ROG STRIX SCOPE II 96 Wireless RGB Gaming Keyboard ROG NX Snow Switches",
+      "description": "ASUS ROG STRIX SCOPE II 96 Wireless RGB Gaming Keyboard ROG NX Snow Switches\n\n**Highlights**\n- ASUS ROG STRIX SCOPE II 96 Wireless RGB Gaming Keyboard ROG NX Snow Switches\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "169.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 14,
+    "fields": {
+      "name": "Asus VY229HF Consumer 21.45 IPS 1920x1080 1MS 100HZ HDMI VGA VESA 3 Years Eyecare Plus,Flicker-Free,Frameless,Low Blue Light,Antibacterial Coating Monitor",
+      "description": "Asus VY229HF Consumer 21.45 IPS 1920x1080 1MS 100HZ HDMI VGA VESA 3 Years Eyecare Plus,Flicker-Free,Frameless,Low Blue Light,Antibacterial Coating Monitor\n\n**Highlights**\n- Asus VY229HF Consumer 21\n- 45 IPS 1920x1080 1MS 100HZ HDMI VGA VESA 3 Years Eyecare Plus\n- Flicker-Free\n- Frameless\n- Low Blue Light\n- Antibacterial Coating Monitor\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "399.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 15,
+    "fields": {
+      "name": "ASUS Zenbook 14 UX3405CA-PP488W Laptop, Intel Ultra 9 Processor 285H Processor, 32GB LPDDR5X, 1TB M.2 NVMe SSD, Intel Arc Graphics Card, 14-inch OLED Display, Windows 11 Home",
+      "description": "ASUS Zenbook 14 UX3405CA-PP488W Laptop, Intel Ultra 9 Processor 285H Processor, 32GB LPDDR5X, 1TB M.2 NVMe SSD, Intel Arc Graphics Card, 14-inch OLED Display, Windows 11 Home\n\n**Highlights**\n- ASUS Zenbook 14 UX3405CA-PP488W Laptop\n- Intel Ultra 9 Processor 285H Processor\n- 32GB LPDDR5X\n- 1TB M\n- 2 NVMe SSD\n- Intel Arc Graphics Card\n- 14-inch OLED Display\n- Windows 11 Home\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "899.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 16,
+    "fields": {
+      "name": "Beats Flex \u2013 All-Day Wireless In-Ear Headphones \u2013 Beats Black",
+      "description": "Beats Flex \u2013 All-Day Wireless In-Ear Headphones \u2013 Beats Black\n\n**Highlights**\n- Beats Flex \u2013 All-Day Wireless In-Ear Headphones \u2013 Beats Black\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "99.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 17,
+    "fields": {
+      "name": "Beats Flex \u2013 All-Day Wireless In-Ear Headphones \u2013 Flame Blue",
+      "description": "Beats Flex \u2013 All-Day Wireless In-Ear Headphones \u2013 Flame Blue\n\n**Highlights**\n- Beats Flex \u2013 All-Day Wireless In-Ear Headphones \u2013 Flame Blue\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "99.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 18,
+    "fields": {
+      "name": "Beats Flex \u2013 All-Day Wireless In-Ear Headphones \u2013 Yuzu Yellow",
+      "description": "Beats Flex \u2013 All-Day Wireless In-Ear Headphones \u2013 Yuzu Yellow\n\n**Highlights**\n- Beats Flex \u2013 All-Day Wireless In-Ear Headphones \u2013 Yuzu Yellow\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "99.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 19,
+    "fields": {
+      "name": "Beats Solo 4 \u2013 On-Ear Wireless Headphones \u2013 Cloud Pink",
+      "description": "Beats Solo 4 \u2013 On-Ear Wireless Headphones \u2013 Cloud Pink\n\n**Highlights**\n- Beats Solo 4 \u2013 On-Ear Wireless Headphones \u2013 Cloud Pink\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "99.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 20,
+    "fields": {
+      "name": "Beats Solo 4 \u2013 On-Ear Wireless Headphones \u2013 Matte Black",
+      "description": "Beats Solo 4 \u2013 On-Ear Wireless Headphones \u2013 Matte Black\n\n**Highlights**\n- Beats Solo 4 \u2013 On-Ear Wireless Headphones \u2013 Matte Black\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "99.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 21,
+    "fields": {
+      "name": "Beats Solo 4 \u2013 On-Ear Wireless Headphones \u2013 Slate Blue",
+      "description": "Beats Solo 4 \u2013 On-Ear Wireless Headphones \u2013 Slate Blue\n\n**Highlights**\n- Beats Solo 4 \u2013 On-Ear Wireless Headphones \u2013 Slate Blue\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "99.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 22,
+    "fields": {
+      "name": "Canyon Convenient Wireless Mouse Black",
+      "description": "Canyon Convenient Wireless Mouse Black\n\n**Highlights**\n- Canyon Convenient Wireless Mouse Black\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "79.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 23,
+    "fields": {
+      "name": "iPhone 14 128 GB Smartphone Black",
+      "description": "iPhone 14 128 GB Smartphone Black\n\n**Highlights**\n- iPhone 14 128 GB Smartphone Black\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "99.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 24,
+    "fields": {
+      "name": "iPhone 15 256 GB Smartphone Blue",
+      "description": "iPhone 15 256 GB Smartphone Blue\n\n**Highlights**\n- iPhone 15 256 GB Smartphone Blue\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "99.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 25,
+    "fields": {
+      "name": "iPhone 15 256 GB Smartphone Green",
+      "description": "iPhone 15 256 GB Smartphone Green\n\n**Highlights**\n- iPhone 15 256 GB Smartphone Green\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "99.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 26,
+    "fields": {
+      "name": "iPhone 16 Pro Max 256 GB Smartphone Black Titanium",
+      "description": "iPhone 16 Pro Max 256 GB Smartphone Black Titanium\n\n**Highlights**\n- iPhone 16 Pro Max 256 GB Smartphone Black Titanium\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "99.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 27,
+    "fields": {
+      "name": "iPhone 16 Pro Max 256 GB Smartphone White Titanium",
+      "description": "iPhone 16 Pro Max 256 GB Smartphone White Titanium\n\n**Highlights**\n- iPhone 16 Pro Max 256 GB Smartphone White Titanium\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "99.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 28,
+    "fields": {
+      "name": "iPhone 16e 256 GB Smartphone Black",
+      "description": "iPhone 16e 256 GB Smartphone Black\n\n**Highlights**\n- iPhone 16e 256 GB Smartphone Black\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "99.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 29,
+    "fields": {
+      "name": "iPhone 16e 256 GB Smartphone White",
+      "description": "iPhone 16e 256 GB Smartphone White\n\n**Highlights**\n- iPhone 16e 256 GB Smartphone White\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "99.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 30,
+    "fields": {
+      "name": "JBL Charge 4 - Waterproof Portable Bluetooth Speaker",
+      "description": "JBL Charge 4 - Waterproof Portable Bluetooth Speaker\n\n**Highlights**\n- JBL Charge 4 - Waterproof Portable Bluetooth Speaker\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "149.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 31,
+    "fields": {
+      "name": "JBL Go Essential Portable Bluetooth Speaker (Black)",
+      "description": "JBL Go Essential Portable Bluetooth Speaker (Black)\n\n**Highlights**\n- JBL Go Essential Portable Bluetooth Speaker (Black)\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "149.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 32,
+    "fields": {
+      "name": "jbl waterproof speaker clip 2 (black color)",
+      "description": "jbl waterproof speaker clip 2 (black color)\n\n**Highlights**\n- jbl waterproof speaker clip 2 (black color)\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "149.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 33,
+    "fields": {
+      "name": "jbl waterproof speaker clip 2 (grey color)",
+      "description": "jbl waterproof speaker clip 2 (grey color)\n\n**Highlights**\n- jbl waterproof speaker clip 2 (grey color)\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "149.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 34,
+    "fields": {
+      "name": "JBL Xtreme 2 Portable Waterproof Wireless Bluetooth Speaker, Green",
+      "description": "JBL Xtreme 2 Portable Waterproof Wireless Bluetooth Speaker, Green\n\n**Highlights**\n- JBL Xtreme 2 Portable Waterproof Wireless Bluetooth Speaker\n- Green\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "149.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 35,
+    "fields": {
+      "name": "Logitech G515 TKL Wired Low Profile Gaming Keyboard, Fully Customizable RGB, TactileBrown Switches, White",
+      "description": "Logitech G515 TKL Wired Low Profile Gaming Keyboard, Fully Customizable RGB, TactileBrown Switches, White\n\n**Highlights**\n- Logitech G515 TKL Wired Low Profile Gaming Keyboard\n- Fully Customizable RGB\n- TactileBrown Switches\n- White\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "169.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 36,
+    "fields": {
+      "name": "Logitech mouse PRO X SUPERLIGHT 2 DEX",
+      "description": "Logitech mouse PRO X SUPERLIGHT 2 DEX\n\n**Highlights**\n- Logitech mouse PRO X SUPERLIGHT 2 DEX\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "79.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 37,
+    "fields": {
+      "name": "Razer Basilisk V3 Customizable Ergonomic Gaming Mouse Fastest Gaming Mouse",
+      "description": "Razer Basilisk V3 Customizable Ergonomic Gaming Mouse Fastest Gaming Mouse\n\n**Highlights**\n- Razer Basilisk V3 Customizable Ergonomic Gaming Mouse Fastest Gaming Mouse\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "79.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 38,
+    "fields": {
+      "name": "Razer BlackWidow V4 75% Hot-Swappable Mechanical Gaming Keyboard, RGB Chroma, Black",
+      "description": "Razer BlackWidow V4 75% Hot-Swappable Mechanical Gaming Keyboard, RGB Chroma, Black\n\n**Highlights**\n- Razer BlackWidow V4 75% Hot-Swappable Mechanical Gaming Keyboard\n- RGB Chroma\n- Black\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "169.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 39,
+    "fields": {
+      "name": "Razer BlackWidow V4 RGB Chroma Compact Wired Gaming Keyboard White",
+      "description": "Razer BlackWidow V4 RGB Chroma Compact Wired Gaming Keyboard White\n\n**Highlights**\n- Razer BlackWidow V4 RGB Chroma Compact Wired Gaming Keyboard White\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "169.00"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 40,
+    "fields": {
+      "name": "Samsung M7 LS43BM700UPXUF 43'' UHD 60Hz 4ms (HDMI+Type-C) Smart Monitor Black",
+      "description": "Samsung M7 LS43BM700UPXUF 43'' UHD 60Hz 4ms (HDMI+Type-C) Smart Monitor Black\n\n**Highlights**\n- Samsung M7 LS43BM700UPXUF 43'' UHD 60Hz 4ms (HDMI+Type-C) Smart Monitor Black\n\nCrafted for everyday excellence and built to last, this item combines reliable performance with sleek aesthetics\u2014perfect for work, play, and everything in between.",
+      "price": "399.00"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 1,
+    "fields": {
+      "product": 1,
+      "url": "/static/store/products/15-inch MacBook Air Laptop with Apple M3 Chip 15.3-inch Liquid Retina Display, 16GB of Integrated Memory, 256GB of SSD Storage, 1080p FaceTime HD Camera, Touch ID. Space Gray (2).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 2,
+    "fields": {
+      "product": 1,
+      "url": "/static/store/products/15-inch MacBook Air Laptop with Apple M3 Chip 15.3-inch Liquid Retina Display, 16GB of Integrated Memory, 256GB of SSD Storage, 1080p FaceTime HD Camera, Touch ID. Space Gray (3).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 3,
+    "fields": {
+      "product": 1,
+      "url": "/static/store/products/15-inch MacBook Air Laptop with Apple M3 Chip 15.3-inch Liquid Retina Display, 16GB of Integrated Memory, 256GB of SSD Storage, 1080p FaceTime HD Camera, Touch ID. Space Gray.jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 4,
+    "fields": {
+      "product": 2,
+      "url": "/static/store/products/Acer Nitro EI322QURPbmiippx 80cm 31.5 inch ZeroFrame QHD Curved 1500R 165Hz FreeSync Premium Pro DisplayHDR 400 VA LED 2xHDMI 2xDP MM Audio out EURO Black Acer EcoDisplay Gaming Monitor (2).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 5,
+    "fields": {
+      "product": 2,
+      "url": "/static/store/products/Acer Nitro EI322QURPbmiippx 80cm 31.5 inch ZeroFrame QHD Curved 1500R 165Hz FreeSync Premium Pro DisplayHDR 400 VA LED 2xHDMI 2xDP MM Audio out EURO Black Acer EcoDisplay Gaming Monitor (3).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 6,
+    "fields": {
+      "product": 2,
+      "url": "/static/store/products/Acer Nitro EI322QURPbmiippx 80cm 31.5 inch ZeroFrame QHD Curved 1500R 165Hz FreeSync Premium Pro DisplayHDR 400 VA LED 2xHDMI 2xDP MM Audio out EURO Black Acer EcoDisplay Gaming Monitor.jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 7,
+    "fields": {
+      "product": 3,
+      "url": "/static/store/products/Apple 2022 MacBook Air Laptop with M2 Chip 13.6-inch Liquid Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Compatible with iPhone and iPad;\u200b\u200b\u200b\u200b\u200b\u200b\u200b Midnight (2).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 8,
+    "fields": {
+      "product": 3,
+      "url": "/static/store/products/Apple 2022 MacBook Air Laptop with M2 Chip 13.6-inch Liquid Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Compatible with iPhone and iPad;\u200b\u200b\u200b\u200b\u200b\u200b\u200b Midnight (3).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 9,
+    "fields": {
+      "product": 3,
+      "url": "/static/store/products/Apple 2022 MacBook Air Laptop with M2 Chip 13.6-inch Liquid Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Compatible with iPhone and iPad;\u200b\u200b\u200b\u200b\u200b\u200b\u200b Midnight.jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 10,
+    "fields": {
+      "product": 4,
+      "url": "/static/store/products/Apple AirPods Max  Sky Blue case.jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 11,
+    "fields": {
+      "product": 5,
+      "url": "/static/store/products/Apple AirPods Max  Sky Blue.jpeg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 12,
+    "fields": {
+      "product": 5,
+      "url": "/static/store/products/Apple AirPods Max  Sky Blue.jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 13,
+    "fields": {
+      "product": 6,
+      "url": "/static/store/products/Apple airpods2 pro (2).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 14,
+    "fields": {
+      "product": 6,
+      "url": "/static/store/products/Apple airpods2 pro.jpeg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 15,
+    "fields": {
+      "product": 6,
+      "url": "/static/store/products/Apple airpods2 pro.jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 16,
+    "fields": {
+      "product": 7,
+      "url": "/static/store/products/Apple MacBook Pro Laptop with M4 Chip, 10-Core CPU, 10-Core GPU 14.2 Liquid Retina XDR Display, 16GB Combo Memory, 512GB SSD Storage; Space Black (2).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 17,
+    "fields": {
+      "product": 7,
+      "url": "/static/store/products/Apple MacBook Pro Laptop with M4 Chip, 10-Core CPU, 10-Core GPU 14.2 Liquid Retina XDR Display, 16GB Combo Memory, 512GB SSD Storage; Space Black (3).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 18,
+    "fields": {
+      "product": 7,
+      "url": "/static/store/products/Apple MacBook Pro Laptop with M4 Chip, 10-Core CPU, 10-Core GPU 14.2 Liquid Retina XDR Display, 16GB Combo Memory, 512GB SSD Storage; Space Black.jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 19,
+    "fields": {
+      "product": 8,
+      "url": "/static/store/products/Apple Magic Keyboard (2).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 20,
+    "fields": {
+      "product": 8,
+      "url": "/static/store/products/Apple Magic Keyboard.jpeg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 21,
+    "fields": {
+      "product": 8,
+      "url": "/static/store/products/Apple Magic Keyboard.jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 22,
+    "fields": {
+      "product": 9,
+      "url": "/static/store/products/Apple Magic Mouse Black (2).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 23,
+    "fields": {
+      "product": 9,
+      "url": "/static/store/products/Apple Magic Mouse Black.jpeg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 24,
+    "fields": {
+      "product": 9,
+      "url": "/static/store/products/Apple Magic Mouse Black.jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 25,
+    "fields": {
+      "product": 10,
+      "url": "/static/store/products/Apple Magic Mouse White (2).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 26,
+    "fields": {
+      "product": 10,
+      "url": "/static/store/products/Apple Magic Mouse White.jpeg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 27,
+    "fields": {
+      "product": 10,
+      "url": "/static/store/products/Apple Magic Mouse White.jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 28,
+    "fields": {
+      "product": 11,
+      "url": "/static/store/products/ASUS Proart PA279CV 27 4K IPS HDR 3840X2160 5MS Dp HDMI USB Type-C MM Vesa 3 Years 100% Rec. 709, 100% SRGB, 10 Bit, Pivot Monitor, Black (2).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 29,
+    "fields": {
+      "product": 11,
+      "url": "/static/store/products/ASUS Proart PA279CV 27 4K IPS HDR 3840X2160 5MS Dp HDMI USB Type-C MM Vesa 3 Years 100% Rec. 709, 100% SRGB, 10 Bit, Pivot Monitor, Black (3).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 30,
+    "fields": {
+      "product": 11,
+      "url": "/static/store/products/ASUS Proart PA279CV 27 4K IPS HDR 3840X2160 5MS Dp HDMI USB Type-C MM Vesa 3 Years 100% Rec. 709, 100% SRGB, 10 Bit, Pivot Monitor, Black.jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 31,
+    "fields": {
+      "product": 12,
+      "url": "/static/store/products/ASUS ROG Strix G16 G615LR-S5213 Laptop, Intel Core Ultra 7 Processor 255HX 2.4GHz, 32GB DDR5, 1TB M.2 SSD, NVIDIA GeForce RTX 5070 Ti 12GB GDDR7, 16 2.5K ROG Display, Dos (2).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 32,
+    "fields": {
+      "product": 12,
+      "url": "/static/store/products/ASUS ROG Strix G16 G615LR-S5213 Laptop, Intel Core Ultra 7 Processor 255HX 2.4GHz, 32GB DDR5, 1TB M.2 SSD, NVIDIA GeForce RTX 5070 Ti 12GB GDDR7, 16 2.5K ROG Display, Dos (3).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 33,
+    "fields": {
+      "product": 12,
+      "url": "/static/store/products/ASUS ROG Strix G16 G615LR-S5213 Laptop, Intel Core Ultra 7 Processor 255HX 2.4GHz, 32GB DDR5, 1TB M.2 SSD, NVIDIA GeForce RTX 5070 Ti 12GB GDDR7, 16 2.5K ROG Display, Dos.jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 34,
+    "fields": {
+      "product": 13,
+      "url": "/static/store/products/ASUS ROG STRIX SCOPE II 96 Wireless RGB Gaming Keyboard ROG NX Snow Switches (2).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 35,
+    "fields": {
+      "product": 13,
+      "url": "/static/store/products/ASUS ROG STRIX SCOPE II 96 Wireless RGB Gaming Keyboard ROG NX Snow Switches (3).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 36,
+    "fields": {
+      "product": 13,
+      "url": "/static/store/products/ASUS ROG STRIX SCOPE II 96 Wireless RGB Gaming Keyboard ROG NX Snow Switches.jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 37,
+    "fields": {
+      "product": 14,
+      "url": "/static/store/products/Asus VY229HF Consumer 21.45 IPS 1920x1080 1MS 100HZ HDMI VGA VESA 3 Years Eyecare Plus,Flicker-Free,Frameless,Low Blue Light,Antibacterial Coating Monitor (2).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 38,
+    "fields": {
+      "product": 14,
+      "url": "/static/store/products/Asus VY229HF Consumer 21.45 IPS 1920x1080 1MS 100HZ HDMI VGA VESA 3 Years Eyecare Plus,Flicker-Free,Frameless,Low Blue Light,Antibacterial Coating Monitor (3).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 39,
+    "fields": {
+      "product": 14,
+      "url": "/static/store/products/Asus VY229HF Consumer 21.45 IPS 1920x1080 1MS 100HZ HDMI VGA VESA 3 Years Eyecare Plus,Flicker-Free,Frameless,Low Blue Light,Antibacterial Coating Monitor.jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 40,
+    "fields": {
+      "product": 15,
+      "url": "/static/store/products/ASUS Zenbook 14 UX3405CA-PP488W Laptop, Intel Ultra 9 Processor 285H Processor, 32GB LPDDR5X, 1TB M.2 NVMe SSD, Intel Arc Graphics Card, 14-inch OLED Display, Windows 11 Home (2).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 41,
+    "fields": {
+      "product": 15,
+      "url": "/static/store/products/ASUS Zenbook 14 UX3405CA-PP488W Laptop, Intel Ultra 9 Processor 285H Processor, 32GB LPDDR5X, 1TB M.2 NVMe SSD, Intel Arc Graphics Card, 14-inch OLED Display, Windows 11 Home (3).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 42,
+    "fields": {
+      "product": 15,
+      "url": "/static/store/products/ASUS Zenbook 14 UX3405CA-PP488W Laptop, Intel Ultra 9 Processor 285H Processor, 32GB LPDDR5X, 1TB M.2 NVMe SSD, Intel Arc Graphics Card, 14-inch OLED Display, Windows 11 Home.jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 43,
+    "fields": {
+      "product": 16,
+      "url": "/static/store/products/Beats Flex \u2013 All-Day Wireless In-Ear Headphones \u2013 Beats Black (2).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 44,
+    "fields": {
+      "product": 16,
+      "url": "/static/store/products/Beats Flex \u2013 All-Day Wireless In-Ear Headphones \u2013 Beats Black (3).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 45,
+    "fields": {
+      "product": 16,
+      "url": "/static/store/products/Beats Flex \u2013 All-Day Wireless In-Ear Headphones \u2013 Beats Black.jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 46,
+    "fields": {
+      "product": 17,
+      "url": "/static/store/products/Beats Flex \u2013 All-Day Wireless In-Ear Headphones \u2013 Flame Blue (2).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 47,
+    "fields": {
+      "product": 17,
+      "url": "/static/store/products/Beats Flex \u2013 All-Day Wireless In-Ear Headphones \u2013 Flame Blue (3).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 48,
+    "fields": {
+      "product": 17,
+      "url": "/static/store/products/Beats Flex \u2013 All-Day Wireless In-Ear Headphones \u2013 Flame Blue.jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 49,
+    "fields": {
+      "product": 18,
+      "url": "/static/store/products/Beats Flex \u2013 All-Day Wireless In-Ear Headphones \u2013 Yuzu Yellow (2).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 50,
+    "fields": {
+      "product": 18,
+      "url": "/static/store/products/Beats Flex \u2013 All-Day Wireless In-Ear Headphones \u2013 Yuzu Yellow (3).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 51,
+    "fields": {
+      "product": 18,
+      "url": "/static/store/products/Beats Flex \u2013 All-Day Wireless In-Ear Headphones \u2013 Yuzu Yellow.jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 52,
+    "fields": {
+      "product": 19,
+      "url": "/static/store/products/Beats Solo 4 \u2013 On-Ear Wireless Headphones \u2013 Cloud Pink (2).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 53,
+    "fields": {
+      "product": 19,
+      "url": "/static/store/products/Beats Solo 4 \u2013 On-Ear Wireless Headphones \u2013 Cloud Pink (3).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 54,
+    "fields": {
+      "product": 19,
+      "url": "/static/store/products/Beats Solo 4 \u2013 On-Ear Wireless Headphones \u2013 Cloud Pink.jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 55,
+    "fields": {
+      "product": 20,
+      "url": "/static/store/products/Beats Solo 4 \u2013 On-Ear Wireless Headphones \u2013 Matte Black (2).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 56,
+    "fields": {
+      "product": 20,
+      "url": "/static/store/products/Beats Solo 4 \u2013 On-Ear Wireless Headphones \u2013 Matte Black (3).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 57,
+    "fields": {
+      "product": 20,
+      "url": "/static/store/products/Beats Solo 4 \u2013 On-Ear Wireless Headphones \u2013 Matte Black.jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 58,
+    "fields": {
+      "product": 21,
+      "url": "/static/store/products/Beats Solo 4 \u2013 On-Ear Wireless Headphones \u2013 Slate Blue (2).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 59,
+    "fields": {
+      "product": 21,
+      "url": "/static/store/products/Beats Solo 4 \u2013 On-Ear Wireless Headphones \u2013 Slate Blue (3).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 60,
+    "fields": {
+      "product": 21,
+      "url": "/static/store/products/Beats Solo 4 \u2013 On-Ear Wireless Headphones \u2013 Slate Blue.jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 61,
+    "fields": {
+      "product": 22,
+      "url": "/static/store/products/Canyon Convenient Wireless Mouse Black (2).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 62,
+    "fields": {
+      "product": 22,
+      "url": "/static/store/products/Canyon Convenient Wireless Mouse Black.jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 63,
+    "fields": {
+      "product": 23,
+      "url": "/static/store/products/iPhone 14 128 GB Smartphone Black (2).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 64,
+    "fields": {
+      "product": 23,
+      "url": "/static/store/products/iPhone 14 128 GB Smartphone Black (3).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 65,
+    "fields": {
+      "product": 23,
+      "url": "/static/store/products/iPhone 14 128 GB Smartphone Black.jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 66,
+    "fields": {
+      "product": 24,
+      "url": "/static/store/products/iPhone 15 256 GB Smartphone Blue (2).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 67,
+    "fields": {
+      "product": 24,
+      "url": "/static/store/products/iPhone 15 256 GB Smartphone Blue (3).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 68,
+    "fields": {
+      "product": 24,
+      "url": "/static/store/products/iPhone 15 256 GB Smartphone Blue.jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 69,
+    "fields": {
+      "product": 25,
+      "url": "/static/store/products/iPhone 15 256 GB Smartphone Green (2).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 70,
+    "fields": {
+      "product": 25,
+      "url": "/static/store/products/iPhone 15 256 GB Smartphone Green (3).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 71,
+    "fields": {
+      "product": 25,
+      "url": "/static/store/products/iPhone 15 256 GB Smartphone Green.jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 72,
+    "fields": {
+      "product": 26,
+      "url": "/static/store/products/iPhone 16 Pro Max 256 GB Smartphone Black Titanium (2).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 73,
+    "fields": {
+      "product": 26,
+      "url": "/static/store/products/iPhone 16 Pro Max 256 GB Smartphone Black Titanium (3).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 74,
+    "fields": {
+      "product": 26,
+      "url": "/static/store/products/iPhone 16 Pro Max 256 GB Smartphone Black Titanium.jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 75,
+    "fields": {
+      "product": 27,
+      "url": "/static/store/products/iPhone 16 Pro Max 256 GB Smartphone White Titanium (4).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 76,
+    "fields": {
+      "product": 27,
+      "url": "/static/store/products/iPhone 16 Pro Max 256 GB Smartphone White Titanium (5).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 77,
+    "fields": {
+      "product": 27,
+      "url": "/static/store/products/iPhone 16 Pro Max 256 GB Smartphone White Titanium (6).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 78,
+    "fields": {
+      "product": 28,
+      "url": "/static/store/products/iPhone 16e 256 GB Smartphone Black (2).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 79,
+    "fields": {
+      "product": 28,
+      "url": "/static/store/products/iPhone 16e 256 GB Smartphone Black (3).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 80,
+    "fields": {
+      "product": 28,
+      "url": "/static/store/products/iPhone 16e 256 GB Smartphone Black.jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 81,
+    "fields": {
+      "product": 29,
+      "url": "/static/store/products/iPhone 16e 256 GB Smartphone White (2).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 82,
+    "fields": {
+      "product": 29,
+      "url": "/static/store/products/iPhone 16e 256 GB Smartphone White (3).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 83,
+    "fields": {
+      "product": 29,
+      "url": "/static/store/products/iPhone 16e 256 GB Smartphone White.jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 84,
+    "fields": {
+      "product": 30,
+      "url": "/static/store/products/JBL Charge 4 - Waterproof Portable Bluetooth Speaker (2).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 85,
+    "fields": {
+      "product": 30,
+      "url": "/static/store/products/JBL Charge 4 - Waterproof Portable Bluetooth Speaker (3).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 86,
+    "fields": {
+      "product": 30,
+      "url": "/static/store/products/JBL Charge 4 - Waterproof Portable Bluetooth Speaker.jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 87,
+    "fields": {
+      "product": 31,
+      "url": "/static/store/products/JBL Go Essential Portable Bluetooth Speaker (Black) (2).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 88,
+    "fields": {
+      "product": 31,
+      "url": "/static/store/products/JBL Go Essential Portable Bluetooth Speaker (Black).jpeg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 89,
+    "fields": {
+      "product": 31,
+      "url": "/static/store/products/JBL Go Essential Portable Bluetooth Speaker (Black).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 90,
+    "fields": {
+      "product": 32,
+      "url": "/static/store/products/jbl waterproof speaker clip 2 (black color).jpeg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 91,
+    "fields": {
+      "product": 32,
+      "url": "/static/store/products/jbl waterproof speaker clip 2 (black color).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 92,
+    "fields": {
+      "product": 33,
+      "url": "/static/store/products/jbl waterproof speaker clip 2 (grey color).jpeg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 93,
+    "fields": {
+      "product": 33,
+      "url": "/static/store/products/jbl waterproof speaker clip 2 (grey color).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 94,
+    "fields": {
+      "product": 34,
+      "url": "/static/store/products/JBL Xtreme 2 Portable Waterproof Wireless Bluetooth Speaker, Green (2).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 95,
+    "fields": {
+      "product": 34,
+      "url": "/static/store/products/JBL Xtreme 2 Portable Waterproof Wireless Bluetooth Speaker, Green.jpeg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 96,
+    "fields": {
+      "product": 34,
+      "url": "/static/store/products/JBL Xtreme 2 Portable Waterproof Wireless Bluetooth Speaker, Green.jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 97,
+    "fields": {
+      "product": 35,
+      "url": "/static/store/products/Logitech G515 TKL Wired Low Profile Gaming Keyboard, Fully Customizable RGB, TactileBrown Switches, White (2).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 98,
+    "fields": {
+      "product": 35,
+      "url": "/static/store/products/Logitech G515 TKL Wired Low Profile Gaming Keyboard, Fully Customizable RGB, TactileBrown Switches, White (3).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 99,
+    "fields": {
+      "product": 35,
+      "url": "/static/store/products/Logitech G515 TKL Wired Low Profile Gaming Keyboard, Fully Customizable RGB, TactileBrown Switches, White.jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 100,
+    "fields": {
+      "product": 36,
+      "url": "/static/store/products/Logitech mouse PRO X SUPERLIGHT 2 DEX (2).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 101,
+    "fields": {
+      "product": 36,
+      "url": "/static/store/products/Logitech mouse PRO X SUPERLIGHT 2 DEX (3).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 102,
+    "fields": {
+      "product": 36,
+      "url": "/static/store/products/Logitech mouse PRO X SUPERLIGHT 2 DEX.jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 103,
+    "fields": {
+      "product": 37,
+      "url": "/static/store/products/Razer Basilisk V3 Customizable Ergonomic Gaming Mouse Fastest Gaming Mouse (2).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 104,
+    "fields": {
+      "product": 37,
+      "url": "/static/store/products/Razer Basilisk V3 Customizable Ergonomic Gaming Mouse Fastest Gaming Mouse (3).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 105,
+    "fields": {
+      "product": 37,
+      "url": "/static/store/products/Razer Basilisk V3 Customizable Ergonomic Gaming Mouse Fastest Gaming Mouse.jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 106,
+    "fields": {
+      "product": 38,
+      "url": "/static/store/products/Razer BlackWidow V4 75% Hot-Swappable Mechanical Gaming Keyboard, RGB Chroma, Black (2).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 107,
+    "fields": {
+      "product": 38,
+      "url": "/static/store/products/Razer BlackWidow V4 75% Hot-Swappable Mechanical Gaming Keyboard, RGB Chroma, Black (3).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 108,
+    "fields": {
+      "product": 38,
+      "url": "/static/store/products/Razer BlackWidow V4 75% Hot-Swappable Mechanical Gaming Keyboard, RGB Chroma, Black.jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 109,
+    "fields": {
+      "product": 39,
+      "url": "/static/store/products/Razer BlackWidow V4 RGB Chroma Compact Wired Gaming Keyboard White (2).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 110,
+    "fields": {
+      "product": 39,
+      "url": "/static/store/products/Razer BlackWidow V4 RGB Chroma Compact Wired Gaming Keyboard White (3).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 111,
+    "fields": {
+      "product": 39,
+      "url": "/static/store/products/Razer BlackWidow V4 RGB Chroma Compact Wired Gaming Keyboard White.jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 112,
+    "fields": {
+      "product": 40,
+      "url": "/static/store/products/Samsung M7 LS43BM700UPXUF 43'' UHD 60Hz 4ms (HDMI+Type-C) Smart Monitor Black (2).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 113,
+    "fields": {
+      "product": 40,
+      "url": "/static/store/products/Samsung M7 LS43BM700UPXUF 43'' UHD 60Hz 4ms (HDMI+Type-C) Smart Monitor Black (3).jpg"
+    }
+  },
+  {
+    "model": "store.productimage",
+    "pk": 114,
+    "fields": {
+      "product": 40,
+      "url": "/static/store/products/Samsung M7 LS43BM700UPXUF 43'' UHD 60Hz 4ms (HDMI+Type-C) Smart Monitor Black.jpg"
+    }
+  }
+]

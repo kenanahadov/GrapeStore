@@ -1,0 +1,9 @@
+{% extends 'store/base.html' %}{% block content %}
+<h1>Your Cart</h1>
+{% if items %}
+<table class="table"><thead><tr><th>Item</th><th class="text-center">Qty</th><th class="text-end">Subtotal</th><th></th></tr></thead><tbody>
+{% for i in items %}<tr><td>{{i.product.name}}</td><td class="text-center">{{i.qty}}</td><td class="text-end">${{i.subtotal}}</td><td class="text-end"><a class="btn btn-sm btn-outline-danger" href="{% url 'remove_cart' i.product.id %}">×</a></td></tr>{% endfor %}
+</tbody></table><div class="text-end fw-bold">Total $ {{total}}</div>
+<a href="{% url 'checkout' %}" class="btn text-white mt-2" style="background-color:#7E3D97;">Checkout</a>
+{% else %}<div class="alert alert-info">Cart is empty.</div>{% endif %}
+{% endblock %}
